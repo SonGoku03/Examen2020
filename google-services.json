@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586727453486",
+    "project_id": "test-5ce9f",
+    "storage_bucket": "test-5ce9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453486:android:940096f2deeac36c3480bf",
+        "android_client_info": {
+          "package_name": "com.emontec.examen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453486-n8aameer50u2guni7n8nk7pe3jtjl19h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emontec.examen",
+            "certificate_hash": "638c4620e6fe019bafea3472efb97b7bc9aff2a6"
+          }
+        },
+        {
+          "client_id": "586727453486-tica7b2651626kjo9243v9ovgj48ilji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLEHYqjKQmQBywTHvAsUpd-RB1700leY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453486-tica7b2651626kjo9243v9ovgj48ilji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
